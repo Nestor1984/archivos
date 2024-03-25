@@ -1,1 +1,2 @@
-select * from nestor;
+select * from nestor
+where id = 1;
